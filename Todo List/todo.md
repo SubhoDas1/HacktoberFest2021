@@ -1,6 +1,6 @@
 # A simple To-Do List Web App
 
-<img src = "assets/Thumbnail.PNG">
+<img src = "assets/Thumbnail.png">
 
 ## We can perform:
 > Add
